@@ -1,2 +1,2 @@
-# finalCP
-Final CampusPuppy Website
+# evalNucleus
+Eval Nucleus Code
